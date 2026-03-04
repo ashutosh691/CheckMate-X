@@ -10,6 +10,17 @@ CheckMate-X is a Python-based chess engine designed to simulate intelligent game
 - Efficient board state representation
 - Designed for learning and practicing chess strategies
 
+## Screenshots
+
+### Game Start
+![Game Start](Screenshots/initial.png)
+
+### Mid Game
+![Mid Game](Screenshots/midgame.png)
+
+### Checkmate Position
+![Checkmate](Screenshots/final.png)
+
 ## Tech Stack
 
 - Python
