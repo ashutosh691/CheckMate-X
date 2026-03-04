@@ -27,7 +27,7 @@ CheckMate-X is a Python-based chess engine designed to simulate intelligent game
 
 Clone the repository:
 
-```bash
+bash
 git clone https://github.com/ashutosh691/CheckMate-X.git
 cd CheckMate-X
 
@@ -39,7 +39,9 @@ Player Move: e2 e4
 Engine Move: c7 c5
 Player Move: g1 f3
 Engine Move: d7 d6
-Future Improvements
+
+
+## Future Improvements
 
 Implement Minimax algorithm with Alpha-Beta pruning
 
@@ -49,7 +51,7 @@ Improve board evaluation heuristics
 
 Add multiplayer mode
 
-Author
+## Author
 
 Ashutosh Upreti
 
